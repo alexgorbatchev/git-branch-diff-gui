@@ -2,8 +2,7 @@
 
 [![GitTip](http://img.shields.io/gittip/alexgorbatchev.svg?style=flat)](https://www.gittip.com/alexgorbatchev/)
 [![Dependency status](http://img.shields.io/david/alexgorbatchev/git-branch-diff-gui.svg?style=flat)](https://david-dm.org/alexgorbatchev/git-branch-diff-gui)
-[![devDependency Status](http://img.shields.io/alexgorbatchev/dev/git-branch-diff-gui.svg?style=flat)](https://david-dm.org/alexgorbatchev/git-branch-diff-gui#info=devDependencies)
-[![Build Status](http://img.shields.io/alexgorbatchev/git-branch-diff-gui.svg?style=flat&branch=master)](https://travis-ci.org/alexgorbatchev/git-branch-diff-gui)
+[![devDependency Status](http://img.shields.io/david/dev/alexgorbatchev/git-branch-diff-gui.svg?style=flat)](https://david-dm.org/alexgorbatchev/git-branch-diff-gui#info=devDependencies)
 
 [![NPM](https://nodei.co/npm/git-branch-diff-gui.svg?style=flat)](https://npmjs.org/package/git-branch-diff-gui)
 
