@@ -1,0 +1,6 @@
+{
+  "name": "git-diffs",
+  "dependencies": {
+    "angular": "https://code.angularjs.org/1.3.0-beta.14/angular.min.js"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "git-branch-diff-gui",
+  "version": "1.0.0",
+  "description": "This is a GUI for git-branch-diff. It shows file diffs between local branches and one remote branch.",
+  "author": {
+    "name": "Alex Gorbatchev",
+    "email": "alex.gorbatchev@gmail.com"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "git://github.com/alexgorbatchev/git-branch-diff-gui.git"
+  },
+  "license" : "MIT",
+  "keywords" : ["git", "gui", "tool", "diff", "branch"],
+  "main": "index.html",
+  "dependencies": {
+    "git-branch-diff": "^1.1.0",
+    "ramda": "^0.2.3"
+  },
+  "window": {
+    "toolbar": false,
+    "width": 1024,
+    "height": 600
+  }
+}
