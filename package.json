@@ -15,7 +15,7 @@
   "main": "index.html",
   "dependencies": {
     "git-branch-diff": "^1.1.0",
-    "ramda": "^0.2.3"
+    "ramda": "^0.22.1"
   },
   "window": {
     "toolbar": false,
